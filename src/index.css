@@ -112,7 +112,8 @@ code {
 .nav-bar-container {
   display: flex;
   border-bottom: 1px solid var(--border);
-  box-shadow: var(--shadow)
+  box-shadow: var(--shadow);
+  width: 100%;
 }
 
 .shop-header {
